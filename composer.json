@@ -1,0 +1,11 @@
+{
+    "name": "kieuoanh/backend",
+    "description": "for example",
+    "authors": [
+        {
+            "name": "kieuoanh231",
+            "email": "kieuoanh2631@gmail.com"
+        }
+    ],
+    "require": {}
+}
